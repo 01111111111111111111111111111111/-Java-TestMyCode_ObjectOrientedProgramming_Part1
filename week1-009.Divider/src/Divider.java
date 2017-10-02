@@ -1,4 +1,5 @@
-//Trying to use GitHub with IntelliJ 
+//Trying to use GitHub with IntelliJ
+//Committing changes
 import java.util.Scanner;
 
 public class Divider {
