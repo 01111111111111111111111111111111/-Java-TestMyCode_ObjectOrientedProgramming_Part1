@@ -29,14 +29,15 @@ public class BiggerNumber { //name of program same as .java, class
 
         System.out.print("Type another number: "); //similar set up as firstNum; now compare 2 integers to each other
 
-        int secondNum = Integer.parseInteger(reader.nextLine());
+        int secondNum = Integer.parseInt(reader.nextLine());
 
         /*compare function here; comparing firstNum and secondNum
         need to look up a math method to compare
-        maybe  java.lang.Math.max()?
+        maybe    java.lang.Math.max(firstNum, secondNum);
         */
 
-        System.out.print("The bigger number of the two numbers give was: " + );//whateverComparedVarOutput after string
+        System.out.println("");
+        System.out.println("The bigger number of the two numbers given was: " + Math.max(firstNum, secondNum));//whateverComparedVarOutput after string
     }
 
 
