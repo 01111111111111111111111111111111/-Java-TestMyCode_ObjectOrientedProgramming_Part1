@@ -51,4 +51,4 @@ public class SumOfTheAges {
 
 }
 
-//committ changes to GitHub for 1st iteration
+//committ changes & publish & push to GitHub repo for 1st iteration
