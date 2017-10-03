@@ -42,3 +42,5 @@ public class BiggerNumber { //name of program same as .java, class
 
 
 }
+
+//2nd iteration to github, committing changes--still figuring out how to to use Intellij --> Github smoothly
